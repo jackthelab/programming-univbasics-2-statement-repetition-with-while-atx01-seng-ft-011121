@@ -6,3 +6,5 @@ while i >= 1 do
   puts i
   i -= 1
 end
+
+puts "Happy New Year!"
